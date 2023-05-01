@@ -11,7 +11,7 @@ fn add(a: felt252, b: felt252) -> felt252 {
 
 // Edit this function
 fn sub(a: felt252, b: felt252) -> felt252 {
-    a - b;
+    a - b
 }
 
 fn main() -> felt252 {
