@@ -1,4 +1,3 @@
-// I AM NOT DONE
 // Remember add function from before? The `add` function below does the exact same
 // thing! If you skip out a `semicolon` at the end of the function, the function 
 // returns the result of that statement. Pretty neat, eh?
@@ -11,7 +10,7 @@ fn add(a: felt252, b: felt252) -> felt252 {
 }
 
 // Edit this function
-fn sub(a, b) {
+fn sub(a: felt252, b: felt252) -> felt252 {
     a - b;
 }
 
